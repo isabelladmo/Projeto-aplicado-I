@@ -12,7 +12,7 @@ PRF
 
 Disponível em:
 
-https://dados.gov.br/dados/conjuntos-dados/sinistros-de-transito-agrupados-por-ocorrencia
+https://dados.gov.br/dados/organizacoes/visualizar/policia-rodoviaria-federal
 
 Objetivos do Projeto
 
