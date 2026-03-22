@@ -8,7 +8,7 @@ Os dados utilizados são disponibilizados publicamente pelo governo brasileiro p
 
 Fonte oficial dos dados:
 
-Polícia Rodoviária Federal
+PRF
 
 Disponível em:
 
