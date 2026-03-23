@@ -1,4 +1,4 @@
-[Primeira Etapa - Projeto Aplicado I.pdf](https://github.com/user-attachments/files/26196733/Primeira.Etapa.-.Projeto.Aplicado.I.pdf)﻿## Projeto Aplicado I
+﻿## Projeto Aplicado I
 
 ### Análise de Sinistros de Trânsito em Rodovias Federais Brasileiras
 
