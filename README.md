@@ -1,4 +1,4 @@
-﻿## Projeto Aplicado I
+[Primeira Etapa - Projeto Aplicado I.pdf](https://github.com/user-attachments/files/26196733/Primeira.Etapa.-.Projeto.Aplicado.I.pdf)﻿## Projeto Aplicado I
 
 ### Análise de Sinistros de Trânsito em Rodovias Federais Brasileiras
 
@@ -21,3 +21,5 @@ Objetivos do Projeto
 3. Verificar as principais causas de sinistros
 4. Avaliar a gravidade dos acidentes
 5. Gerar insights que possam contribuir para estudos sobre segurança no trânsito
+
+[Primeira Etapa - Projeto Aplicado I.pdf](https://github.com/user-attachments/files/26196735/Primeira.Etapa.-.Projeto.Aplicado.I.pdf)
