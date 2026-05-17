@@ -22,6 +22,8 @@ Objetivos do Projeto
 4. Avaliar a gravidade dos acidentes
 5. Gerar insights que possam contribuir para estudos sobre segurança no trânsito
 
-[Primeira Etapa - Projeto Aplicado I.pdf](https://github.com/user-attachments/files/27937201/Primeira.Etapa.-.Projeto.Aplicado.I.pdf)/
-[Segunda Etapa - Projeto Aplicado I.pdf](https://github.com/user-attachments/files/27937203/Segunda.Etapa.-.Projeto.Aplicado.I.pdf)/
+[Primeira Etapa - Projeto Aplicado I.pdf](https://github.com/user-attachments/files/27937201/Primeira.Etapa.-.Projeto.Aplicado.I.pdf)
+
+[Segunda Etapa - Projeto Aplicado I.pdf](https://github.com/user-attachments/files/27937203/Segunda.Etapa.-.Projeto.Aplicado.I.pdf)
+
 [Terceira Etapa - Projeto Aplicado I.pdf](https://github.com/user-attachments/files/27937199/Terceira.Etapa.-.Projeto.Aplicado.I.pdf)
