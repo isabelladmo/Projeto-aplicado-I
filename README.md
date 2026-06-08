@@ -28,6 +28,7 @@ Objetivos do Projeto
 
 [Terceira Etapa - Projeto Aplicado I.pdf](https://github.com/user-attachments/files/27937199/Terceira.Etapa.-.Projeto.Aplicado.I.pdf)
 
+
 Link de apresentação do projeto:
 
 https://youtu.be/SHZ0HMzKNB4
